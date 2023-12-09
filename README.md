@@ -5,11 +5,11 @@
 # Problem solving:
 </center>
 <center style="display: flex; justify-content: center; align-items:center; padding-bottom: 10px;">
-<a href="https://leetcode.com/shakil102043/">
+<a target="_blank" href="https://leetcode.com/shakil102043/">
 <img src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/leetcode.png" style="width: 100px; user-selection: none;"/>
 </a>
 <span style="width:20px;"></span>
-<a href="https://codeforces.com/profile/abdusShohidShakil">
+<a target="_blank" href="https://codeforces.com/profile/abdusShohidShakil">
 <img src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/codeforces.png" style="width: 100px; user-selection: none;"/>
 </a>
 </center>
