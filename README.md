@@ -20,13 +20,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developerHub01&show_icons=true&locale=en&layout=compact" alt="shakil" />
-</p>
 
+<p align="center">
 <p align="center">
 
 ![developerHub01](https://github-readme-stats.vercel.app/api?username=developerHub01&theme=algolia&show_icons=true)
+</p>
+<p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=pie&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 </p>
