@@ -22,7 +22,7 @@
 <br/>
 <br/>
 <br/>
-<div>
+<p align="center">
 
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerHub01&theme=tokyonight&show_icons=true)
-</div>
+  ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerHub01&theme=tokyonight&show_icons=true)
+</p>
