@@ -10,24 +10,31 @@
   <span>
     <img src="https://skillicons.dev/icons?i=html" align="center">
   </span>
+  &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=css" align="center">
   </span>
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=js" align="center">
   </span>
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=tailwind" align="center">
   </span>
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=react" align="center">
   </span>
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=nodejs" align="center">
   </span>
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=express" align="center">
   </span>
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=mongodb" align="center">
   </span>
@@ -42,27 +49,28 @@
 
 <h1 align="center">My All Social:</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-abdus-shohid-shakil">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/.svg" align="center" width="70">
+  <a href="mailto:shakil102043@gmail.com">
+    <img src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/gmail.png" align="center" width="50">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/md-abdus-shohid-shakil">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" align="center" width="70">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" align="center" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/abdusshohid.shakil.5">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" align="center" width="70">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" align="center" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/abdusShohidShakil">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" align="center" width="80">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" align="center" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/shakil102043">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" align="center" width="70">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" align="center" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codepen.io/shakil102043">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" align="center" width="70">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" align="center" width="50">
   </a>
 </p>
 
