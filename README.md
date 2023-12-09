@@ -39,5 +39,3 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xG_XY_opWxc?si=ebHUVL6E6UTo8JbN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
