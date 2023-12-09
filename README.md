@@ -14,3 +14,9 @@
 </center>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerHub01&show_icons=true&locale=en&layout=compact" alt="shakil" /></p>
+
+<br/>
+<br/>
+<br/>
+
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerHub01&theme=tokyonight&show_icons=true)
