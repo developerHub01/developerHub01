@@ -1,10 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/banner.jpg" alt="shakil" />
 
-### 
 
-<center>
- 😊I am Shakil Front-end Developer and programmer. Currently, I am studying in CSE. I am passionate about coding. Currently, I am learning more about full stack dev and my goal is to contribute to the developers community.
-</center>
+ #### 😊I am Shakil Front-end Developer and programmer. Currently, I am studying in CSE. I am passionate about coding. Currently, I am learning more about full stack dev and my goal is to contribute to the developers community.
 
 <center>
 
