@@ -3,6 +3,7 @@
 <center>
 
 # Problem solving:
+
 </center>
 <center align="center">
 <a target="_blank" href="https://leetcode.com/shakil102043/">
@@ -18,5 +19,7 @@
 <br/>
 <br/>
 <br/>
+<div>
 
 ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerHub01&theme=tokyonight&show_icons=true)
+</div>
