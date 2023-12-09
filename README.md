@@ -5,6 +5,9 @@
 <h3 align="center">
  😊I am Shakil Front-end Developer and programmer. Currently, I am studying in CSE. I am passionate about coding. Currently, I am learning more about full stack dev and my goal is to contribute to the developers community.
 </h3>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <h1 align="center">My skills:</h1>
 <p align="center">
   <span>
@@ -40,12 +43,16 @@
   </span>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <h1 align="center">Technology that I am exploring</h1>
 <p align="center">
   <span>
     <img src="https://skillicons.dev/icons?i=py" align="center">
   </span>
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h1 align="center">My All Social:</h1>
 <p align="center">
@@ -73,6 +80,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" align="center" width="50">
   </a>
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
   <span><img src="https://github-readme-stats.vercel.app/api?username=developerHub01&theme=algolia&show_icons=true" align="center"></span> &nbsp;&nbsp;
