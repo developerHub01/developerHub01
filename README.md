@@ -1,6 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/banner.jpg" alt="shakil" />
 
-<center style="padding-top: 10px;">
+<center>
 
 # Problem solving:
 </center>
