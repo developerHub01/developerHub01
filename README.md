@@ -50,6 +50,10 @@
   <span>
     <img src="https://skillicons.dev/icons?i=py" align="center">
   </span>
+  &nbsp;&nbsp;
+ <span>
+    <img src="https://skillicons.dev/icons?i=selenium" align="center">
+  </span>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
