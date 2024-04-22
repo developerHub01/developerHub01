@@ -41,6 +41,9 @@
   <span>
     <img src="https://skillicons.dev/icons?i=mongodb" align="center">
   </span>
+  <span>
+    <img src="https://skillicons.dev/icons?i=materialui" align="center">
+  </span>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
