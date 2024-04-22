@@ -41,8 +41,13 @@
   <span>
     <img src="https://skillicons.dev/icons?i=mongodb" align="center">
   </span>
+    &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=materialui" align="center">
+  </span>
+    &nbsp;&nbsp;
+  <span>
+    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/nextui.png" align="center">
   </span>
 </p>
 
