@@ -1,4 +1,4 @@
-<img align="left" style="width: 100%;" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/banner_img.jpg" alt="shakil" />
+<img align="left" style="width: 100%;" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/banner.jpg" alt="shakil" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
