@@ -22,6 +22,10 @@
     <img src="https://skillicons.dev/icons?i=js" align="center">
   </span>
    &nbsp;&nbsp;
+ <span>
+    <img src="https://skillicons.dev/icons?i=ts" align="center">
+  </span>
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=tailwind" align="center">
   </span>
@@ -41,7 +45,7 @@
   <span>
     <img src="https://skillicons.dev/icons?i=mongodb" align="center">
   </span>
-    &nbsp;&nbsp;
+   &nbsp;&nbsp;
   <span>
     <img src="https://skillicons.dev/icons?i=materialui" align="center">
   </span>
@@ -94,6 +98,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@DeveloperHub1/videos">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" align="center" width="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/channels/@shakil5617">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" align="center" width="50">
   </a>
 </p>
 
