@@ -104,7 +104,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api?username=developerHub01&theme=algolia&show_icons=true" align="center"></span> &nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://github-readme-stats.vercel.app/api?username=developerHub01&theme=algolia&show_icons=true" align="center"></span> <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;
   <span><img src="https://github-readme-streak-stats.herokuapp.com?user=developerHub01&theme=algolia" alt="GitHub Streak" align="center"/></span>
   <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;
   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=donut&theme=algolia" align="center"></span>
