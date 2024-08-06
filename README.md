@@ -92,10 +92,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" align="center" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/shakil102043">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" align="center" width="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@DeveloperHub1/videos">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" align="center" width="50">
   </a>
