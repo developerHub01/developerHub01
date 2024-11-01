@@ -59,12 +59,20 @@
 
 <h1 align="center">Technology that I am exploring</h1>
 <p align="center">
-  <span>
+   <span>
+    <img src="https://skillicons.dev/icons?i=nextjs" align="center">
+  </span>
+  &nbsp;&nbsp;
+ <span>
     <img src="https://skillicons.dev/icons?i=py" align="center">
   </span>
   &nbsp;&nbsp;
  <span>
     <img src="https://skillicons.dev/icons?i=selenium" align="center">
+  </span>
+ &nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=php" align="center">
   </span>
 </p>
 
