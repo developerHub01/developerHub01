@@ -53,6 +53,10 @@
   <span>
     <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/nextui.png" align="center">
   </span>
+    &nbsp;&nbsp;
+  <span>
+    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/shadcn.png" align="center">
+  </span>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
