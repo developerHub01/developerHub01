@@ -22,7 +22,7 @@
   </span>
    &nbsp;&nbsp;
   <span>
-    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/drizle-orm.png" align="center">
+    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/drizzle-orm.png" align="center">
   </span>
    &nbsp;&nbsp;
   <span>
