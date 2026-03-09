@@ -1,5 +1,5 @@
 <a href="https://shakil102043.vercel.app/" target="_blank">
-    <img align="left" style="width: 100%;" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/banner.jpg" alt="shakil" />
+    <img align="left" style="width: 100%;" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/banner.png" alt="shakil" />
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
