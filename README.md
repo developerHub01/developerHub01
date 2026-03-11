@@ -73,15 +73,15 @@
 ## GitHub Stats
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=developerHub01&show_icons=true&theme=transparent" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=developerHub01&show_icons=true&theme=algolia" />
 </p>
 
 <p>
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=developerHub01&theme=transparent" />
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=developerHub01&theme=algolia" />
 </p>
 
 <p>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=compact&theme=transparent" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=donut&theme=algolia" />
 </p>
 
 ## Contact
