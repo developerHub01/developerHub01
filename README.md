@@ -1,100 +1,91 @@
-<a href="https://shakil102043.vercel.app/" target="_blank">
-    <img align="left" style="width: 100%;" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/banner.png" alt="shakil" />
-</a>
+[![Portfolio Banner](assets/banner.png)](https://shakil102043.vercel.app/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# Abdus Shohid Shakil
 
-<h3 align="center">
- 😊I am Shakil Front-end Developer and programmer. Currently, I am studying in CSE. I am passionate about coding. Currently, I am learning more about full stack dev and my goal is to contribute to the developers community.
-</h3>
+**Frontend Focused Fullstack Developer** | CSE Graduate
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<h1 align="center">My skills:</h1>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,electron,redux,alpinejs,materialui,figma,nodejs,express,mongodb,sqlite,mysql,vue,nuxt,pinia&perline=6" />
+<p>
+  <a href="https://shakil102043.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-111111?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <span>
-    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/mongoose.png" align="center">
-  </span>
-   &nbsp;&nbsp;
-  <span>
-    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/drizzle-orm.png" align="center">
-  </span>
-   &nbsp;&nbsp;
-  <span>
-    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/nextui.png" align="center">
-  </span>
-    &nbsp;&nbsp;
-  <span>
-    <img width="45" src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/shadcn.png" align="center">
-  </span>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<h1 align="center">Technology that I am exploring</h1>
-<p align="center">
-   <span>
-    <img src="https://skillicons.dev/icons?i=nextjs" align="center">
-  </span>
-  &nbsp;&nbsp;
- <span>
-    <img src="https://skillicons.dev/icons?i=py" align="center">
-  </span>
-  &nbsp;&nbsp;
- <span>
-    <img src="https://skillicons.dev/icons?i=selenium" align="center">
-  </span>
- &nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=php" align="center">
-  </span>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<h1 align="center">My All Social:</h1>
-<p align="center">
   <a href="mailto:shakil102043@gmail.com">
-    <img src="https://raw.githubusercontent.com/developerHub01/developerHub01/main/assets/gmail.png" align="center" width="50">
+    <img alt="Email" src="https://img.shields.io/badge/Email-shakil102043%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdus-shohid-shakil-870959387">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" align="center" width="50">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/abdusshohid.shakil.5">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" align="center" width="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/abdusShohidShakil">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" align="center" width="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/shakil102043">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" align="center" width="50">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-shakil102043-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/abdusShohidShakil">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-abdusShohidShakil-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
   <a href="https://www.youtube.com/@DeveloperHub1/videos">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" align="center" width="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/channels/@shakil5617">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" align="center" width="50">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-DeveloperHub1-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api?username=developerHub01&theme=algolia&show_icons=true" align="center"></span> <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://github-readme-streak-stats.herokuapp.com?user=developerHub01&theme=algolia" alt="GitHub Streak" align="center"/></span>
-  <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=donut&theme=algolia" align="center"></span>
+<p>
+  <a href="https://www.facebook.com/abdusshohid.shakil.5">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-abdusshohid.shakil.5-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-shakil5617-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
+
+## About
+
+- Frontend Focused Fullstack Developer | CSE Graduate
+- Complex UI stack: TypeScript, React, Next.js, Tailwind CSS, Shadcn/ui
+- SEO Landing Page UI stack: TypeScript, Vue, Nuxt.js, Tailwind CSS, Shadcn/ui
+- Backend stack: TypeScript, Node.js, Electron.js, Express, Supabase (Love)
+- BD stack: SQLite, MongoDB, MYSQL, Drizzle ORM, Mongoose
+- Problem solving: LeetCode + Codeforces
+
+## Tech Stack
+
+<p>
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,next,alpinejs,vue,nuxt,pinia,materialui,nodejs,express,mongodb,mysql,sqlite,figma,electron,supabase&perline=8" />
+</p>
+
+<p>
+  <img alt="Mongoose" src="assets/mongoose.png" width="40" />
+  <img alt="Drizzle ORM" src="assets/drizzle-orm.png" width="40" />
+  <img alt="NextUI" src="assets/nextui.png" width="40" />
+  <img alt="shadcn/ui" src="assets/shadcn.png" width="40" />
+  <img alt="shadcn/ui" src="assets/shadcn-vue.png" width="40" />
+</p>
+
+## Currently Learning
+
+<p>
+  <img alt="Learning icons" src="https://skillicons.dev/icons?i=python,selenium,php&perline=8" />
+</p>
+
+## Featured Projects
+
+- [ApiBolt](https://github.com/developerHub01/ApiBolt)
+- [ApiBolt-web](https://github.com/developerHub01/ApiBolt-web)
+- [CF Dark (Codeforces theme)](https://github.com/developerHub01/CF_Dark)
+- [Scheduler (Chrome Extension)](https://github.com/developerHub01/Schedular-2.o-Chrome-Extension)
+- [ShareThought-client (incomplete)](https://github.com/developerHub01/ShareThought-client)
+- [ShareThought-server (incomplete)](https://github.com/developerHub01/ShareThought-server)
+
+## GitHub Stats
+
+<p>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=developerHub01&show_icons=true&theme=transparent" />
+</p>
+
+<p>
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=developerHub01&theme=transparent" />
+</p>
+
+<p>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerHub01&layout=compact&theme=transparent" />
+</p>
+
+## Contact
+
+- Email: [shakil102043@gmail.com](mailto:shakil102043@gmail.com)
+- Portfolio: [shakil102043.vercel.app](https://shakil102043.vercel.app/)
+- LinkedIn: [abdus-shohid-shakil-870959387](https://www.linkedin.com/in/abdus-shohid-shakil-870959387)
