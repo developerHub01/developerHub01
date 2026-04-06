@@ -11,7 +11,7 @@
   <a href="mailto:shakil102043@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-shakil102043%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdus-shohid-shakil">
+  <a href="https://www.linkedin.com/in/shakil102043">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/shakil102043">
@@ -88,4 +88,4 @@
 
 - Email: [shakil102043@gmail.com](mailto:shakil102043@gmail.com)
 - Portfolio: [shakil102043.vercel.app](https://shakil102043.vercel.app/)
-- LinkedIn: [abdus-shohid-shakil](https://www.linkedin.com/in/abdus-shohid-shakil/)
+- LinkedIn: [shakil102043](https://www.linkedin.com/in/shakil102043/)
