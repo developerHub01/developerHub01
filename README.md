@@ -44,12 +44,13 @@
 ## Tech Stack
 
 <p>
-  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,next,alpinejs,vue,nuxt,pinia,materialui,nodejs,express,mongodb,mysql,sqlite,figma,electron,supabase&perline=8" />
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,next,alpinejs,vue,nuxt,pinia,materialui,nodejs,express,mongodb,mysql,sqlite,figma,electron,supabase,playwright&perline=8" />
 </p>
 
 <p>
   <img alt="Mongoose" src="assets/mongoose.png" width="40" />
   <img alt="Drizzle ORM" src="assets/drizzle-orm.png" width="40" />
+  <img alt="Playwright" src="assets/playwright.png" width="40" />
   <img alt="NextUI" src="assets/nextui.png" width="40" />
   <img alt="shadcn/ui" src="assets/shadcn.png" width="40" />
   <img alt="shadcn/ui" src="assets/shadcn-vue.png" width="40" />
